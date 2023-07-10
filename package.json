@@ -1,0 +1,23 @@
+{
+  "name": "theodinproject--restaurant-page",
+  "version": "1.0.0",
+  "description": "top restaurant page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-chung-mc/theodinproject--restaurant-page.git"
+  },
+  "author": "michael-chung-mc",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/michael-chung-mc/theodinproject--restaurant-page/issues"
+  },
+  "homepage": "https://github.com/michael-chung-mc/theodinproject--restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
