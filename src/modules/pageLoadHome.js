@@ -13,5 +13,5 @@ export function load () {
     // review
     const review = document.createElement("div");
     review.innerHTML = "filler";
-    content.append("review"); 
+    content.append(review); 
 }
