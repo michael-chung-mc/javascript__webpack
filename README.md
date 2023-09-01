@@ -33,12 +33,12 @@ Practice Javascript and Webpack
 ## Design
 ### Requirements
 ### Tools
-    * Javascript
-    * Webpack
-    * Visual Studio Code
-    * Git
-    * Xubuntu
-    * VirtualBox
+* Javascript
+* Webpack
+* Visual Studio Code
+* Git
+* Xubuntu
+* VirtualBox
 ### Roadmap
 - [x] theodinproject restaurant page webpack assignment
     - [x] tab to page
